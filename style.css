@@ -48,3 +48,8 @@ li a:hover:not(.active) {
  flex-wrap: wrap;
  color: white;
 }
+
+.tid{
+font-size: 75px;
+font-weight: 100;
+}
